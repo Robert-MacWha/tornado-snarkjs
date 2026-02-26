@@ -1,3 +1,5 @@
+Fork of the repo at https://git.tornado.ws/, currently down
+
 # snarkjs: JavaScript implementation of zkSNARKs.
 
 This is a JavaScript implementation of zkSNARK schemes. It allows the original 8points protocol
